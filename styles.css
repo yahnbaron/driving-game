@@ -2,9 +2,11 @@
   background-color: green;
   width: 1500px;
   height: 1500px;
+  position: relative;
 }
 
 img {
   max-height: 200px;
   max-width: 200px;
+  position: absolute;
 }
